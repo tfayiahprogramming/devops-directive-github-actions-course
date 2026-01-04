@@ -8,8 +8,3 @@ jobs:
     runs-on: ubuntu-24.04
     steps:
       - run: echo "Hello from an inline bash script in a GitHub Action Workflow!"
-  say-hello-in-python:
-    runs-on: unbuntu-24.04
-    steps:
-      - run: print("Hello world from python")
-        shell: python
