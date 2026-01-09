@@ -6,4 +6,5 @@ paths:
   - "03-core-features/filters/*.md"
   # Exclude txt files
   - "!03-core-features/filters/*.txt"
+ This is a change to this file.
 ```
